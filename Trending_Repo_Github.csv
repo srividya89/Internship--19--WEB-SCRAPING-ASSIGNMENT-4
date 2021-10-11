@@ -1,0 +1,22 @@
+,Nos,Repository title,Repository Description,Contributors count,Language used
+0,1,peng-zhihui ,我的超迷你机械臂机器人项目。,368,Python
+1,2,xinntao ,Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.,359,C
+2,3,ckosmic ,iOS port of https://github.com/sm64pc/sm64ex/,12,JavaScript
+3,4,ethereum ,Ethereum.org is a primary online resource for the Ethereum community.,"1,464",JavaScript
+4,5,WebDevSimplified ,Set up a personal VPN in the cloud,125,Python
+5,6,trailofbits ,🚀 Free resources you may use to promote your next startup,"1,916",C
+6,7,trekhleb ,A curated list of awesome actions to use on GitHub,109,JavaScript
+7,8,sdras ,我终于能用谷歌搜中文了……,"1,003",HTML
+8,9,cobaltdisco ,Smart NFC & ink-Display Card,156,C
+9,10,peng-zhihui ,Collection of publicly available IPTV channels from all over the world,"1,384",C
+10,11,iptv-org ,稚晖的个人站,"3,599",Go
+11,12,peng-zhihui ,This project aims to bring back a productive working environment on Windows 11.,113,Solidity
+12,13,valinet ,This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins or for reporting issues. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git. All issues should be reported at: https://bugs.openwrt.org,21,C++
+13,14,openwrt ,go-zero is a web and rpc framework written in Go. It's born to ensure the stability of the busy sites with resilient design. Builtin goctl greatly improves the development productivity.,"6,302",JavaScript
+14,15,zeromicro ,The Ethereum Improvement Proposal repository,"1,387",Go
+15,16,ethereum ,Bitcoin Core integration/staging tree,"2,839",JavaScript
+16,17,bitcoin ,The open-source repo for docs.github.com,"30,133",Go
+17,18,github ,"GoPlus - The Go+ language for engineering, STEM education, and data science","27,559",Rust
+18,19,goplus ,"Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",402,Java
+19,20,jklepatch ,"Implementation of the Filecoin protocol, written in Go","1,846",Go
+20,21,filecoin-project ,A refreshingly simple data-driven game engine built in Rust,894,TypeScript
